@@ -7,7 +7,6 @@ const PORT = 3001;
 
 const app = express();
 
-// Sets up the Express app to handle data parsing
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
