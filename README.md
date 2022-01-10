@@ -9,6 +9,8 @@ This application can be used to write, save and delete notes!
 
 * Express.js
 
+* UUID package
+
 
 ## URL Link and demo
 
@@ -19,4 +21,4 @@ This application can be used to write, save and delete notes!
 git@github.com:Chis517/note-taker.git
 
 * [URL of deployed application]
-()
+(https://salty-sierra-13031.herokuapp.com/)
