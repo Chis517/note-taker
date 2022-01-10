@@ -22,3 +22,8 @@ git@github.com:Chis517/note-taker.git
 
 * [URL of deployed application]
 (https://salty-sierra-13031.herokuapp.com/)
+
+
+* [GIF of deployed application]
+
+    ![image](note-taker.gif)
